@@ -1,7 +1,7 @@
 dependencies:
   - python=3
-  - pip : 
-    - numpy
+  - pip
+    - numpy
     - matplotlib
     - pandas
 
